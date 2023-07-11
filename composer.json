@@ -1,0 +1,17 @@
+{
+    "name": "asus/ci_login",
+    "autoload": {
+        "psr-4": {
+            "Asus\\CiLogin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "satriosws",
+            "email": "ststio1018@gmail.com"
+        }
+    ],
+    "require": {
+        "tecnickcom/tcpdf": "^6.6"
+    }
+}
